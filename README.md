@@ -1857,7 +1857,7 @@ class PostTag(OxydeModel):
 
 ## Useful Links
 
-- [Oxyde Documentation](https://oxyde.readthedocs.io/)
+- [Oxyde Documentation](https://oxyde.fatalyst.dev/)
 - [GitHub Oxyde](https://github.com/mr-fatalyst/oxyde)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 
