@@ -3,9 +3,9 @@
 > Step-by-step tutorial for building a complete REST API for a blog
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green.svg)](https://fastapi.tiangolo.com/)
-[![Oxyde ORM](https://img.shields.io/badge/Oxyde-ORM-orange.svg)](https://github.com/mr-fatalyst/oxyde)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-orange.svg)](https://fastapi.tiangolo.com/)
+[![Oxyde ORM](https://img.shields.io/badge/Oxyde-ORM-blue.svg)](https://github.com/mr-fatalyst/oxyde)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
